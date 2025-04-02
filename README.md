@@ -6,7 +6,7 @@
 ![Insomnia](https://img.shields.io/badge/insomnia-testing-purple)
 
 
-API RESTful para gerenciamento de usuários com **CRUD completo**, **validações**, **MySQL** e suporte a **Docker**. Ideal para testes com Insomnia/Postman.
+API RESTful para gerenciamento de usuários com **CRUD completo**, **validações**, **MySQL** Ideal para testes com Insomnia/Postman.
 
 ---
 
@@ -22,10 +22,9 @@ API RESTful para gerenciamento de usuários com **CRUD completo**, **validaçõe
 
 ## **⚙️ Pré-requisitos**
 - **Java 17+**
-- **MySQL 8.0+** (ou Docker, se preferir rodar containerizado)
+- **MySQL 8.0+**
 - **Maven 3.6+**
 - **Insomnia/Postman** (para testar endpoints)
-- **Docker** (opcional, para execução via containers)
 
 ---
 
