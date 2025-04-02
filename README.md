@@ -21,9 +21,9 @@ API RESTful para gerenciamento de usuários com **CRUD completo**, **validaçõe
 ---
 
 ## **⚙️ Pré-requisitos**
-- **Java 17+**
+- **Java 17**
 - **MySQL 8.0+**
-- **Maven 3.6+**
+- **Maven 3.3+**
 - **Insomnia/Postman** (para testar endpoints)
 
 ---
